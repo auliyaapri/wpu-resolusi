@@ -3,4 +3,4 @@ WPU RESOLUSI
 - React js
 - Vue js
 - Figma
-- Contoh menambah resolusi baru
+
