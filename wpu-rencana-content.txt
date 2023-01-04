@@ -1,6 +1,7 @@
 Rencana Content WPU
 - Javascript
   ^ Vue
+  ^ React JS
 - Struktur Data Dasar
 - PHP Framework
   ^ Laravel
