@@ -6,5 +6,12 @@ Rencana Content WPU
     ^ React JS
 - PHP Framework
     ^ Laravel
+=======
+  ^ Vue
+  ^ React JS
+- Struktur Data Dasar
+- PHP Framework
+  ^ Laravel
 - Interview
 - Vlog
+- Python
